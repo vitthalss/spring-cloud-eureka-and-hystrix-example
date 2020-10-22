@@ -1,4 +1,4 @@
-# Spring Cloud Eureka and Hystrix Example
+# Spring Cloud Eureka and Hystrix Example.
 
 ## Components
 - `eureka-service` - The Eureka service which is the Service Registry
